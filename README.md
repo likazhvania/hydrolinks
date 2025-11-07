@@ -1,4 +1,4 @@
-HydroThreads: Curved Connections from Water to City
+**HydroThreads: Curved Connections from Water to City**
 
 Curving “direct” lines from waterways to buildings to explore a different sense of accessibility—how water threads through a city and reaches us.
 
